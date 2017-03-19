@@ -1,0 +1,19 @@
+Given the following classes:
+
+Cannon
+CS2004
+CannonSolution
+
+Design a hill climbing algorithm to solve the following problems:
+
+1)	What is the maximum range of K12? What angle and muzzle velocity is needed?
+
+2)	What is the minimum range of K12? What angle and muzzle velocity is needed?
+
+3)	What angle and muzzle velocity is needed to hit a target 75,000 metres away? How close can you get?
+
+4)	What angle and muzzle velocity is needed to hit a target 95,000 metres away? How close can you get?
+
+5)	What angle and muzzle velocity is needed to hit a target 65,000 metres away? How close can you get?
+
+
