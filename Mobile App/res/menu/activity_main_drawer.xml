@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_coursework_layout"
+            android:icon="@drawable/coursework"
+            android:title="Coursework" />
+        <item
+            android:id="@+id/nav_revision_layout"
+            android:icon="@drawable/revision"
+            android:title="Revision" />
+        <item
+            android:id="@+id/nav_timer_layout"
+            android:icon="@drawable/timer3"
+            android:title="Timer" />
+        <item
+            android:id="@+id/nav_weekly_layout"
+            android:icon="@drawable/weekly"
+            android:title="Weekly" />
+        <item
+            android:id="@+id/nav_profile_layout"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_maps_layout"
+            android:icon="@drawable/maps"
+            android:title="Maps" />
+        <item
+            android:id="@+id/Logout"
+            android:icon="@drawable/profile"
+            android:title="Logout" />
+    </group>
+
+</menu>
